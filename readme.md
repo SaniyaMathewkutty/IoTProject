@@ -1,4 +1,4 @@
---
-# Battery-sensing phone charger
+- #  IoTProject
++ #  Battery-sensing phone charger
 -------------------------------
-Idea description: Mobile battery charger that turns off the power after the phone has been charged to a certain amount.
+Idea description: Mobile battery charger that turns off the power supplied to the phone after the it has been charged to a certain amount. 
